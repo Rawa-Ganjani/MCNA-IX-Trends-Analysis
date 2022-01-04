@@ -1,0 +1,136 @@
+﻿Sector,research.question,sub.research.question,dependent.variable,dependent.variable.type,independent.variable,independent.variable.type,repeat.for.variable,hypothesis.type
+AAP,% of HHs reported having received aid in the 30 days prior to data collection,,received_aid,categorical,all,categorical,all,direct_reporting
+AAP,% of HHs reporting to have received [type of aid],Cash,received_aid_cash,categorical,all,categorical,all,direct_reporting
+AAP,% of HHs reporting to have received [type of aid],Food,received_aid_food,categorical,all,categorical,all,direct_reporting
+AAP,% of HHs reporting to have received [type of aid],Water,received_aid_water,categorical,all,categorical,all,direct_reporting
+AAP,% of HHs reporting to have received [type of aid],Fuel,received_aid_fuel,categorical,all,categorical,all,direct_reporting
+AAP,% of HHs reporting to have received [type of aid],Shelter,received_aid_shelter,categorical,all,categorical,all,direct_reporting
+AAP,% of HHs reporting to have received [type of aid],Seasonal items,received_aid_seasonal_items,categorical,all,categorical,all,direct_reporting
+AAP,% of HHs reporting to have received [type of aid],Other non-food items,received_aid_other_nfi,categorical,all,categorical,all,direct_reporting
+AAP,% of HHs reporting to have received [type of aid],Protection/legal services,received_aid_protection,categorical,all,categorical,all,direct_reporting
+AAP,% of HHs reporting to have received [type of aid],Education services,received_aid_education,categorical,all,categorical,all,direct_reporting
+AAP,% of HHs reporting to have received [type of aid],Healthcare,received_aid_healthcare,categorical,all,categorical,all,direct_reporting
+AAP,% of HHs reporting to have received [type of aid],none,received_aid_none,categorical,all,categorical,all,direct_reporting
+AAP,% of HHs reporting to be satisfied with the aid received,,aid_satisfaction,categorical,all,categorical,all,direct_reporting
+"CCCM, Shelter, Protection",% of HHs living in critical shelter,,critical_shelter,categorical,all,categorical,all,direct_reporting
+"CCCM, Shelter, Protection",% of HHs living in [type of shelter],,shelter.shelter_type,categorical,all,categorical,all,direct_reporting
+Education,% of households with at least one school-aged child not attending formal school regularly (at least 4 days a week),,not_attending_formal,categorical,all,categorical,all,direct_reporting
+Education,% of households with at least one female school-aged child not attending formal school regularly (at least 4 days a week),,female_not_attending_formal,categorical,all,categorical,all,direct_reporting
+Education,% of households with at least one male school-aged child not attending formal school regularly (at least 4 days a week),,male_not_attending_formal,categorical,all,categorical,all,direct_reporting
+Education,% of HHs with at least one child dropping out in previous academic year,,dropped_from_school,categorical,all,categorical,all,direct_reporting
+Education,Main barriers to education,School stopped functioning and is now closed,education_barriers_not_function,categorical,all,categorical,all,direct_reporting
+Education,Main barriers to education,Lack of safety to access schools,education_barriers_safety,categorical,all,categorical,all,direct_reporting
+Education,Main barriers to education,Costs related to education,education_barriers_cost,categorical,all,categorical,all,direct_reporting
+Education,Main barriers to education,Unable to enroll/register,education_barriers_unable_to_register,categorical,all,categorical,all,direct_reporting
+Education,Main barriers to education,Health condition of child,education_barriers_health_issue,categorical,all,categorical,all,direct_reporting
+Education,Main barriers to education,Physical limitations to access school ,education_barriers_physical_limitation,categorical,all,categorical,all,direct_reporting
+Education,Main barriers to education,School and classes are overcrowded,education_barriers_overcrowded,categorical,all,categorical,all,direct_reporting
+Education,Main barriers to education,The school infrastructure is poor,education_barriers_poor_infrastructure,categorical,all,categorical,all,direct_reporting
+Education,Main barriers to education,Curriculum not adapted,education_barriers_curriculum_not_adapted,categorical,all,categorical,all,direct_reporting
+Education,Main barriers to education,Child working,education_barriers_working,categorical,all,categorical,all,direct_reporting
+Education,Main barriers to education,parental refusal,education_barriers_parental_refusal,categorical,all,categorical,all,direct_reporting
+Education,Main barriers to education,Lack of interest of children in education.,education_barriers_lack_interest,categorical,all,categorical,all,direct_reporting
+Education,Main barriers to education,Unable to access distance learning: household does not have the required resources,education_barriers_distance_learning_lack_resources,categorical,all,categorical,all,direct_reporting
+Education,Main barriers to education,Unable to access distance learning: school is not offering alternative education while school buildings are closed,education_barriers_distance_learning_no_alternative,categorical,all,categorical,all,direct_reporting
+Education,Main barriers to education,None,education_barriers_none,categorical,all,categorical,all,direct_reporting
+Education,Main barriers to education,Other,education_barriers_other,categorical,all,categorical,all,direct_reporting
+Food Security,Food Consumption Score,,fcs_category,categorical,all,categorical,all,direct_reporting
+Food Security,Household Hunger Scale,"Little to no hunger
+Moderate hunger
+Severe hunger",household_hunger_category,categorical,all,categorical,all,direct_reporting
+"Food Security, Livelihoods","% of HH relying on negative coping strategies (stress, crisis or emergency) to cope with a lack of food or money to buy food",Stress,stress,categorical,all,categorical,all,direct_reporting
+"Food Security, Livelihoods","% of HH relying on negative coping strategies (stress, crisis or emergency) to cope with a lack of food or money to buy food",Crisis,crisis,categorical,all,categorical,all,direct_reporting
+"Food Security, Livelihoods","% of HH relying on negative coping strategies (stress, crisis or emergency) to cope with a lack of food or money to buy food",Emergency,emergency,categorical,all,categorical,all,direct_reporting
+"Food Security, Livelihoods",% of HH spending more than 50% of total expenditure on food,,food_expenditure_share,categorical,all,categorical,all,direct_reporting
+Health,"% of households with  a hospital with emergency, maternity, surgical and pediatric services within one hour's reach from dwellings",,hospital_access_services,categorical,all,categorical,all,direct_reporting
+Health,% of households that can access primary healthcare (health clinic) within one hour's walk from dwellings,,clinic_access,categorical,all,categorical,all,direct_reporting
+Health,% HH reporting difficulties in accessing health services,,difficulty_access_healthcare,categorical,all,categorical,all,direct_reporting
+Health,% HH reporting [type of difficulty] in accessing health services,Cost of services and/or medicine was too high,difficulty_access_healthcare_cost,categorical,all,categorical,all,direct_reporting
+Health,% HH reporting [type of difficulty] in accessing health services,Did not get access to qualified health staff at the health facility,difficulty_access_healthcare_lack_qualified_staff,categorical,all,categorical,all,direct_reporting
+Health,% HH reporting [type of difficulty] in accessing health services,Problems with civil documents,difficulty_access_healthcare_lack_civil_doc,categorical,all,categorical,all,direct_reporting
+Health,% HH reporting [type of difficulty] in accessing health services,Public health clinic did not provide referral,difficulty_access_healthcare_no_referral_phc,categorical,all,categorical,all,direct_reporting
+Health,% HH reporting [type of difficulty] in accessing health services,Public health clinic not open,difficulty_access_healthcare_phc_closed,categorical,all,categorical,all,direct_reporting
+Health,% HH reporting [type of difficulty] in accessing health services,The treatment center was too far away/Transportation constraints,difficulty_access_healthcare_too_far,categorical,all,categorical,all,direct_reporting
+Health,% HH reporting [type of difficulty] in accessing health services,Medical staff refused treatment without any excuse,difficulty_access_healthcare_staff_refused_treatment,categorical,all,categorical,all,direct_reporting
+Health,% HH reporting [type of difficulty] in accessing health services,No medicine available at health facility/pharmacy,difficulty_access_healthcare_lack_medicine,categorical,all,categorical,all,direct_reporting
+Health,% HH reporting [type of difficulty] in accessing health services,No treatment available for my disease at the health facility,difficulty_access_healthcare_no_treatment_phc,categorical,all,categorical,all,direct_reporting
+Health,% HH reporting [type of difficulty] in accessing health services,Health services not inclusive of people with disabilities,difficulty_access_healthcare_not_inclusive_disability,categorical,all,categorical,all,direct_reporting
+Health,% HH reporting [type of difficulty] in accessing health services,Lack of female health staff,difficulty_access_healthcare_no_female_staff,categorical,all,categorical,all,direct_reporting
+"Health, Protection","% HH with at least on individual that has ""lots of difficulty"" or ""cannot do at all"" one of the following activities: seeing, hearing, walking/climbing steps, remembering/concerntrating, self-care, communicating",,members_disabled,categorical,all,categorical,all,direct_reporting
+"Health, Protection",% of households with members unable to access one or more services due to disability,,difficulty_disability_services,categorical,all,categorical,all,direct_reporting
+"Health, Protection GBV",% of households reporting that women of reproductive age (15-49) face difficulty in accessing specialized reproductive health services,,difficulty_accessing_female_services,categorical,all,categorical,all,direct_reporting
+HH profile,% of female-headed households,,female_headed,categorical,all,categorical,all,direct_reporting
+HH profile,% of single headed households,,single_headed,categorical,all,categorical,all,direct_reporting
+"HH Profile, CCCM ",% of IDP HHs that intend to remain in their current location for the next three months,"Remain
+Return to AoO
+Move elsewhere
+Don’t know",no_movement_3,categorical,all,categorical,all,direct_reporting
+"HH Profile, CCCM ",% of IDP HHs that intend to remain in their current location for the next twelve months,"Remain
+Return to AoO
+Move elsewhere
+Don’t know",no_movement_12,categorical,all,categorical,all,direct_reporting
+"HH Profile, CCCM ",% of returnee HHs that intend to remain in their current location for the next twelve months,,no_movement_returnee_12,categorical,all,categorical,all,direct_reporting
+"HH Profile, CCCM ",% of IDP HHs that intend to integrate into the local community of their current district in the long-term,,integration,categorical,all,categorical,all,direct_reporting
+"HH Profile, CCCM ",% of IDP HHs that currently intends to return to their AoO due to [insert response option],Safety in AoO,return_security_aoo,categorical,all,categorical,all,direct_reporting
+"HH Profile, CCCM ",% of IDP HHs that currently intends to return to their AoO due to [insert response option],Safety concerns in AoD,return_security_aod,categorical,all,categorical,all,direct_reporting
+"HH Profile, CCCM ",% of IDP HHs that currently intends to return to their AoO due to [insert response option],Lack of livelihood in AoD,return_livelihoods_aod,categorical,all,categorical,all,direct_reporting
+"HH Profile, CCCM ",% of IDP HHs that currently intends to return to their AoO due to [insert response option],to secure HLP ,return_secure_hlp,categorical,all,categorical,all,direct_reporting
+"HH Profile, CCCM ",% of IDP HHs that currently intends to return to their AoO due to [insert response option],to secure civil documentation or security clearance,return_secure_docs,categorical,all,categorical,all,direct_reporting
+"HH Profile, CCCM ",% of IDP HHs that currently intends to return to their AoO due to [insert response option],"Lack of access to basic services in AoD (e.g. health, education, courts)",return_limited_services,categorical,all,categorical,all,direct_reporting
+"HH Profile, CCCM ",% of IDP HHs that currently intends to return to their AoO due to [insert response option],"Availability of access to basic services and/or livelihood in AoO (e.g. health, education, courts)",return_available_services_aoo,categorical,all,categorical,all,direct_reporting
+"HH Profile, CCCM ",% of IDP HHs that currently intends to return to their AoO due to [insert response option],"Social pull factors (e.g. emotional desire, family returned, family released from detention, lack integration AoD)",return_pull_factors,categorical,all,categorical,all,direct_reporting
+"HH Profile, CCCM ",% of IDP HHs that currently intends to return to their AoO due to [insert response option],Mine/UXO contamination,return_uxo,categorical,all,categorical,all,direct_reporting
+"HH Profile, CCCM ",% of IDP HHs that currently don't intend to return to their AoO due to [insert response option],Safety concerns in AoO,no_return_security_aoo,categorical,all,categorical,all,direct_reporting
+"HH Profile, CCCM ",% of IDP HHs that currently don't intend to return to their AoO due to [insert response option],Lack of livelihood in AoO,no_return_lack_livelihoods,categorical,all,categorical,all,direct_reporting
+"HH Profile, CCCM ",% of IDP HHs that currently don't intend to return to their AoO due to [insert response option],Lack of shelter in AoO,no_return_lack_shelter,categorical,all,categorical,all,direct_reporting
+"HH Profile, CCCM ",% of IDP HHs that currently don't intend to return to their AoO due to [insert response option],Lack of civil documentation or security clearance,no_return_lack_docs,categorical,all,categorical,all,direct_reporting
+"HH Profile, CCCM ",% of IDP HHs that currently don't intend to return to their AoO due to [insert response option],"Lack of access to basic services in AoD (e.g. health, education, courts)",no_return_lack_services,categorical,all,categorical,all,direct_reporting
+"HH Profile, CCCM ",% of IDP HHs that currently don't intend to return to their AoO due to [insert response option],"Pull factors to remain in AoD (e.g. education, family, health condition, living conditions)",no_return_pull_factors,categorical,all,categorical,all,direct_reporting
+"HH Profile, CCCM ",% of IDP HHs that currently don't intend to return to their AoO due to [insert response option],Mine/UXO contamination,no_return_uxo,categorical,all,categorical,all,direct_reporting
+Livelihoods,% HH with at least one adult (18+) unemployed and seeking work,,unemployed_seeking_work,categorical,all,categorical,all,direct_reporting
+Livelihoods,% HH with at least one female adult (18+) unemployed and seeking work,,female_unemployed_seeking_work,categorical,all,categorical,all,direct_reporting
+Livelihoods,% HH with at least one person under (<18) working,,children_working,categorical,all,categorical,all,direct_reporting
+Livelihoods,Main barriers to employment,"Increased competition for jobs, not enough jobs",employment_barrier_competition,categorical,all,categorical,all,direct_reporting
+Livelihoods,Main barriers to employment,Available jobs are too far away,employment_barrier_too_far,categorical,all,categorical,all,direct_reporting
+Livelihoods,Main barriers to employment,"Only low-skilled, socially degrading or low-paying jobs",employment_barrier_only_low_available,categorical,all,categorical,all,direct_reporting
+Livelihoods,Main barriers to employment,Underqualified for available jobs,employment_barrier_underqualified_for_jobs,categorical,all,categorical,all,direct_reporting
+Livelihoods,Main barriers to employment,Lack of family/personal connections,employment_barrier_no_wasta,categorical,all,categorical,all,direct_reporting
+Livelihoods,Main barriers to employment,Lack of livelihood/employment opportunities for women,employment_barrier_lack_jobs_women,categorical,all,categorical,all,direct_reporting
+Livelihoods,"% of households whose average monthly income [from employment and pension] was less than 480,000 IQD/month",,insufficient_income,categorical,all,categorical,all,direct_reporting
+Livelihoods,% of HHs reporting a barrier to an operational marketplace,,market_barrier,categorical,all,categorical,all,direct_reporting
+Livelihoods,"% HH with debt value > 505,000 IQD ",,too_much_debt,categorical,all,categorical,all,direct_reporting
+Livelihoods,"% HH unable to afford basic needs (% HH taking on debt due to healthcare, food, education, or basic household expenditures)",,basic_services,categorical,all,categorical,all,direct_reporting
+"Livelihoods, AAP",% of households relying  on humanitarian assistance as a primary  source of income,,ngo_assistance,categorical,all,categorical,all,direct_reporting
+"Livelihoods, Health",% of HH spending more than 25% of total expenditure on health,,health_expenses,categorical,all,categorical,all,direct_reporting
+Protection,% HHs reporting risk of eviction,,risk_eviction,categorical,all,categorical,all,direct_reporting
+Protection,% of HHs reporting to experience daytime movement restrictions,,movement_restriction,categorical,all,categorical,all,direct_reporting
+Protection,% HH missing at least one key household or individual document ,,hh_missing_doc,categorical,all,categorical,all,direct_reporting
+Protection,% of HH with at least one child missing a key individual document,,children_missing_doc,categorical,all,categorical,all,direct_reporting
+Protection,% of households with presence of child marriage,,child_married,categorical,all,categorical,all,direct_reporting
+"Protection, Health",% HH with children with psychosocial distress (proxy data with behaviour change),,child_distress,categorical,all,categorical,all,direct_reporting
+"Protection, Health",% HH with adults with psychosocial distress (proxy data with behavior change),,adult_distress,categorical,all,categorical,all,direct_reporting
+"Protection, HLP",% of HHs lacking secure tenure,,lack_secure_tenure,categorical,all,categorical,all,direct_reporting
+"Protection, HLP",% of HHs lacking valid HLP documents,,lack_hlp,categorical,all,categorical,all,direct_reporting
+SNFI,% HHs reporting at least 2 shelter improvements,,shelter_2_improvements,categorical,all,categorical,all,direct_reporting
+WASH,% of HHs without access to an improved water source,,imptoved_water_source,categorical,all,categorical,all,direct_reporting
+WASH,% of HHs without access to [type of water source],"Improved:
+1.Piped water into compound
+2.Piped water connected to public tap
+3.Borehole
+4.Protected well
+5.Protected rainwater tank
+6.Protected spring
+7.Bottled water
+
+Unimproved:
+8.Water Trucking
+9.Unofficial connection to piped network
+10.Unprotected rainwater tank
+11.Unprotected well
+12.Unprotected spring
+13. Surface water without pre-treatment (river, dam, lake, pond, stream, canal)
+14. Other",water_source,categorical,all,categorical,all,direct_reporting
+WASH,% of households without access to a sufficient quantity of water for drinking and domestic purposes,,insufficient_amount_water,categorical,all,categorical,all,direct_reporting
+WASH,% HH with access to improved functional sanitation facilities ,,improved_sanitation,categorical,all,categorical,all,direct_reporting
+WASH,% of households reporting problems related to water quality,,problem_water_quality,categorical,all,categorical,all,direct_reporting
+WASH,% HH treating their water prior to drinking,,treat_water,categorical,all,categorical,all,direct_reporting

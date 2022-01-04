@@ -1,0 +1,271 @@
+"Sector","Indicator","Sub Indicator","Disaggregation","Percentages","variable_name","p_value"
+"AAP","% of HHs reported having received aid in the 30 days prior to data collection","","female",0.0588336140703404,"received_aid",0.000275729397273313
+"AAP","% of HHs reported having received aid in the 30 days prior to data collection","","male",0.0409009347466031,"received_aid",0.000275729397273313
+"AAP","% of HHs reporting to have received [type of aid]","Cash","female",0.418903671900713,"received_aid_cash",0.0974134554118976
+"AAP","% of HHs reporting to have received [type of aid]","Cash","male",0.419530946325515,"received_aid_cash",0.0974134554118976
+"AAP","% of HHs reporting to have received [type of aid]","Food","female",0.663396418607621,"received_aid_food",0.00754755664467595
+"AAP","% of HHs reporting to have received [type of aid]","Food","male",0.62770705818151,"received_aid_food",0.00754755664467595
+"AAP","% of HHs reporting to have received [type of aid]","Water","female",0.024873534996352,"received_aid_water",0.00115364097906027
+"AAP","% of HHs reporting to have received [type of aid]","Water","male",0.0311650803569142,"received_aid_water",0.00115364097906027
+"AAP","% of HHs reporting to have received [type of aid]","Fuel","female",0,"received_aid_fuel",0.0602197125597181
+"AAP","% of HHs reporting to have received [type of aid]","Fuel","male",0.0078350249387543,"received_aid_fuel",0.0602197125597181
+"AAP","% of HHs reporting to have received [type of aid]","Shelter","female",0.0172096174186187,"received_aid_shelter",5.05087866776086e-07
+"AAP","% of HHs reporting to have received [type of aid]","Shelter","male",0.00281446294009119,"received_aid_shelter",5.05087866776086e-07
+"AAP","% of HHs reporting to have received [type of aid]","Seasonal items","female",0.015098462758662,"received_aid_seasonal_items",0.442193783984764
+"AAP","% of HHs reporting to have received [type of aid]","Seasonal items","male",0.00759337756523356,"received_aid_seasonal_items",0.442193783984764
+"AAP","% of HHs reporting to have received [type of aid]","Other non-food items","female",0,"received_aid_other_nfi",0.86593223823468
+"AAP","% of HHs reporting to have received [type of aid]","Other non-food items","male",0.00247902931078508,"received_aid_other_nfi",0.86593223823468
+"AAP","% of HHs reporting to have received [type of aid]","Protection/legal services","female",0.00235936773321932,"received_aid_protection",0.96114961116897
+"AAP","% of HHs reporting to have received [type of aid]","Protection/legal services","male",0.00722873809856614,"received_aid_protection",0.96114961116897
+"AAP","% of HHs reporting to have received [type of aid]","Education services","female",0.133890127429693,"received_aid_education",0.23072016914664
+"AAP","% of HHs reporting to have received [type of aid]","Education services","male",0.141359742515552,"received_aid_education",0.23072016914664
+"AAP","% of HHs reporting to have received [type of aid]","Healthcare","female",0.0374073295626515,"received_aid_healthcare",0.33808406752291
+"AAP","% of HHs reporting to have received [type of aid]","Healthcare","male",0.0422000114195234,"received_aid_healthcare",0.33808406752291
+"AAP","% of HHs reporting to have received [type of aid]","none","female",0,"received_aid_none",NA
+"AAP","% of HHs reporting to have received [type of aid]","none","male",0,"received_aid_none",NA
+"AAP","% of HHs reporting to be satisfied with the aid received","","female",0.681588998946717,"aid_satisfaction",0.0337569392289523
+"AAP","% of HHs reporting to be satisfied with the aid received","","male",0.671372624598834,"aid_satisfaction",0.0337569392289523
+"CCCM, Shelter, Protection","% of HHs living in critical shelter","","female",0.115795212538561,"critical_shelter",1.05330001869665e-06
+"CCCM, Shelter, Protection","% of HHs living in critical shelter","","male",0.0749685773295598,"critical_shelter",1.05330001869665e-06
+"CCCM, Shelter, Protection","% of HHs living in [type of shelter]","damaged_habitual","female",0.0905998127103223,"shelter.shelter_type",3.4749072606711e-19
+"CCCM, Shelter, Protection","% of HHs living in [type of shelter]","damaged_rental","female",0.0469980078485836,"shelter.shelter_type",3.4749072606711e-19
+"CCCM, Shelter, Protection","% of HHs living in [type of shelter]","good_habitual","female",0.555559062829187,"shelter.shelter_type",3.4749072606711e-19
+"CCCM, Shelter, Protection","% of HHs living in [type of shelter]","good_rental","female",0.114992623961494,"shelter.shelter_type",3.4749072606711e-19
+"CCCM, Shelter, Protection","% of HHs living in [type of shelter]","host_family","female",0.0580284153769629,"shelter.shelter_type",3.4749072606711e-19
+"CCCM, Shelter, Protection","% of HHs living in [type of shelter]","hotel","female",0.00347901000994082,"shelter.shelter_type",3.4749072606711e-19
+"CCCM, Shelter, Protection","% of HHs living in [type of shelter]","makeshift_shelter","female",0.0180568679020491,"shelter.shelter_type",3.4749072606711e-19
+"CCCM, Shelter, Protection","% of HHs living in [type of shelter]","non_residential","female",0.0172959684377809,"shelter.shelter_type",3.4749072606711e-19
+"CCCM, Shelter, Protection","% of HHs living in [type of shelter]","other","female",0.0145478547249487,"shelter.shelter_type",3.4749072606711e-19
+"CCCM, Shelter, Protection","% of HHs living in [type of shelter]","public_building","female",0.00180930855700585,"shelter.shelter_type",3.4749072606711e-19
+"CCCM, Shelter, Protection","% of HHs living in [type of shelter]","religious_building","female",0.00160698468001321,"shelter.shelter_type",3.4749072606711e-19
+"CCCM, Shelter, Protection","% of HHs living in [type of shelter]","rhu","female",0.00598997839495603,"shelter.shelter_type",3.4749072606711e-19
+"CCCM, Shelter, Protection","% of HHs living in [type of shelter]","tent","female",0.0289916308848655,"shelter.shelter_type",3.4749072606711e-19
+"CCCM, Shelter, Protection","% of HHs living in [type of shelter]","unfinished_building","female",0.0420444736818902,"shelter.shelter_type",3.4749072606711e-19
+"CCCM, Shelter, Protection","% of HHs living in [type of shelter]","damaged_habitual","male",0.0743016273062913,"shelter.shelter_type",3.4749072606711e-19
+"CCCM, Shelter, Protection","% of HHs living in [type of shelter]","damaged_rental","male",0.0269222924483662,"shelter.shelter_type",3.4749072606711e-19
+"CCCM, Shelter, Protection","% of HHs living in [type of shelter]","good_habitual","male",0.624537451214207,"shelter.shelter_type",3.4749072606711e-19
+"CCCM, Shelter, Protection","% of HHs living in [type of shelter]","good_rental","male",0.155503017256021,"shelter.shelter_type",3.4749072606711e-19
+"CCCM, Shelter, Protection","% of HHs living in [type of shelter]","host_family","male",0.0265054708620878,"shelter.shelter_type",3.4749072606711e-19
+"CCCM, Shelter, Protection","% of HHs living in [type of shelter]","hotel","male",0.00160652439595874,"shelter.shelter_type",3.4749072606711e-19
+"CCCM, Shelter, Protection","% of HHs living in [type of shelter]","makeshift_shelter","male",0.00377976265215204,"shelter.shelter_type",3.4749072606711e-19
+"CCCM, Shelter, Protection","% of HHs living in [type of shelter]","non_residential","male",0.0105117427823679,"shelter.shelter_type",3.4749072606711e-19
+"CCCM, Shelter, Protection","% of HHs living in [type of shelter]","other","male",0.0156550391875082,"shelter.shelter_type",3.4749072606711e-19
+"CCCM, Shelter, Protection","% of HHs living in [type of shelter]","public_building","male",0.0032799687688569,"shelter.shelter_type",3.4749072606711e-19
+"CCCM, Shelter, Protection","% of HHs living in [type of shelter]","religious_building","male",0.00171195946531817,"shelter.shelter_type",3.4749072606711e-19
+"CCCM, Shelter, Protection","% of HHs living in [type of shelter]","rhu","male",0.00877800983251549,"shelter.shelter_type",3.4749072606711e-19
+"CCCM, Shelter, Protection","% of HHs living in [type of shelter]","tent","male",0.0172822846652199,"shelter.shelter_type",3.4749072606711e-19
+"CCCM, Shelter, Protection","% of HHs living in [type of shelter]","unfinished_building","male",0.0296248491631294,"shelter.shelter_type",3.4749072606711e-19
+"Education","% of households with at least one school-aged child not attending formal school regularly (at least 4 days a week)","","female",0.412381839344609,"not_attending_formal",1.61548267709732e-07
+"Education","% of households with at least one school-aged child not attending formal school regularly (at least 4 days a week)","","male",0.252792693235101,"not_attending_formal",1.61548267709732e-07
+"Education","% of households with at least one female school-aged child not attending formal school regularly (at least 4 days a week)","","female",0.430623261794854,"female_not_attending_formal",1.25271572833246e-05
+"Education","% of households with at least one female school-aged child not attending formal school regularly (at least 4 days a week)","","male",0.233263420269903,"female_not_attending_formal",1.25271572833246e-05
+"Education","% of households with at least one male school-aged child not attending formal school regularly (at least 4 days a week)","","female",0.328256209844335,"male_not_attending_formal",7.06354177269071e-07
+"Education","% of households with at least one male school-aged child not attending formal school regularly (at least 4 days a week)","","male",0.20294035420167,"male_not_attending_formal",7.06354177269071e-07
+"Education","% of HHs with at least one child dropping out in previous academic year","","female",0.193039049262633,"dropped_from_school",0.000292442317569934
+"Education","% of HHs with at least one child dropping out in previous academic year","","male",0.121533513047164,"dropped_from_school",0.000292442317569934
+"Education","Main barriers to education","School stopped functioning and is now closed","female",0.061504884360088,"education_barriers_not_function",0.07667620936893
+"Education","Main barriers to education","School stopped functioning and is now closed","male",0.0726983045448792,"education_barriers_not_function",0.07667620936893
+"Education","Main barriers to education","Lack of safety to access schools","female",0.00443560717339765,"education_barriers_safety",0.999999999999999
+"Education","Main barriers to education","Lack of safety to access schools","male",0.0183179562354335,"education_barriers_safety",0.999999999999999
+"Education","Main barriers to education","Costs related to education","female",0.260591181385136,"education_barriers_cost",0.227586867504797
+"Education","Main barriers to education","Costs related to education","male",0.28601740881121,"education_barriers_cost",0.227586867504797
+"Education","Main barriers to education","Unable to enroll/register","female",0.122383292479134,"education_barriers_unable_to_register",0.178229931567125
+"Education","Main barriers to education","Unable to enroll/register","male",0.103801270634181,"education_barriers_unable_to_register",0.178229931567125
+"Education","Main barriers to education","Health condition of child","female",0.0466797602308791,"education_barriers_health_issue",0.00850037874358709
+"Education","Main barriers to education","Health condition of child","male",0.138621259828257,"education_barriers_health_issue",0.00850037874358709
+"Education","Main barriers to education","Physical limitations to access school ","female",0.0859033488244476,"education_barriers_physical_limitation",0.895873538217054
+"Education","Main barriers to education","Physical limitations to access school ","male",0.141986153681847,"education_barriers_physical_limitation",0.895873538217054
+"Education","Main barriers to education","School and classes are overcrowded","female",0.0006444825569436,"education_barriers_overcrowded",0.780699150904659
+"Education","Main barriers to education","School and classes are overcrowded","male",0.0187128591330573,"education_barriers_overcrowded",0.780699150904659
+"Education","Main barriers to education","The school infrastructure is poor","female",0.0109786779542782,"education_barriers_poor_infrastructure",0.0349996844300214
+"Education","Main barriers to education","The school infrastructure is poor","male",0.0273891605277253,"education_barriers_poor_infrastructure",0.0349996844300214
+"Education","Main barriers to education","Curriculum not adapted","female",0.00725806580126822,"education_barriers_curriculum_not_adapted",0.999999999999988
+"Education","Main barriers to education","Curriculum not adapted","male",0.0132619526201441,"education_barriers_curriculum_not_adapted",0.999999999999988
+"Education","Main barriers to education","Child working","female",0.109387648175443,"education_barriers_working",0.101746036063545
+"Education","Main barriers to education","Child working","male",0.0588605872015702,"education_barriers_working",0.101746036063545
+"Education","Main barriers to education","parental refusal","female",0.233011444104295,"education_barriers_parental_refusal",0.975273823189621
+"Education","Main barriers to education","parental refusal","male",0.0282909919322826,"education_barriers_parental_refusal",0.975273823189621
+"Education","Main barriers to education","Lack of interest of children in education.","female",0.390291053534293,"education_barriers_lack_interest",0.0705231017797883
+"Education","Main barriers to education","Lack of interest of children in education.","male",0.10961693156776,"education_barriers_lack_interest",0.0705231017797883
+"Education","Main barriers to education","Unable to access distance learning: household does not have the required resources","female",0.0280648648825378,"education_barriers_distance_learning_lack_resources",0.818007951155655
+"Education","Main barriers to education","Unable to access distance learning: household does not have the required resources","male",0.0374754110886869,"education_barriers_distance_learning_lack_resources",0.818007951155655
+"Education","Main barriers to education","Unable to access distance learning: school is not offering alternative education while school buildings are closed","female",0.0172103650119731,"education_barriers_distance_learning_no_alternative",0.866877432914991
+"Education","Main barriers to education","Unable to access distance learning: school is not offering alternative education while school buildings are closed","male",0.044761338378313,"education_barriers_distance_learning_no_alternative",0.866877432914991
+"Education","Main barriers to education","None","female",0.0860169077886134,"education_barriers_none",0.0121494220387816
+"Education","Main barriers to education","None","male",0.142677740721172,"education_barriers_none",0.0121494220387816
+"Education","Main barriers to education","Other","female",0.00442121121946067,"education_barriers_other",0.789652635822182
+"Education","Main barriers to education","Other","male",0.0210067470916515,"education_barriers_other",0.789652635822182
+"Food Security","Food Consumption Score","Acceptable","female",0.907903080205828,"fcs_category",1.41456203843389e-08
+"Food Security","Food Consumption Score","Borderline","female",0.0622103273479545,"fcs_category",1.41456203843389e-08
+"Food Security","Food Consumption Score","Poor","female",0.0298865924462176,"fcs_category",1.41456203843389e-08
+"Food Security","Food Consumption Score","Acceptable","male",0.93347779375714,"fcs_category",1.41456203843389e-08
+"Food Security","Food Consumption Score","Borderline","male",0.0486916298384139,"fcs_category",1.41456203843389e-08
+"Food Security","Food Consumption Score","Poor","male",0.0178305764044458,"fcs_category",1.41456203843389e-08
+"Food Security","Household Hunger Scale","Little to no hunger in the household (0-1)","female",0.892649254012647,"household_hunger_category",7.15934992109839e-11
+"Food Security","Household Hunger Scale","Moderate hunger in the household (2-3)","female",0.10121823334073,"household_hunger_category",7.15934992109839e-11
+"Food Security","Household Hunger Scale","Severe hunger in the household (4-6)","female",0.00613251264662362,"household_hunger_category",7.15934992109839e-11
+"Food Security","Household Hunger Scale","Little to no hunger in the household (0-1)","male",0.956421927092492,"household_hunger_category",7.15934992109839e-11
+"Food Security","Household Hunger Scale","Moderate hunger in the household (2-3)","male",0.0413414441134631,"household_hunger_category",7.15934992109839e-11
+"Food Security","Household Hunger Scale","Severe hunger in the household (4-6)","male",0.00223662879404506,"household_hunger_category",7.15934992109839e-11
+"Food Security, Livelihoods","% of HH relying on negative coping strategies (stress, crisis or emergency) to cope with a lack of food or money to buy food","Stress","female",0.655952115359833,"stress",0.0315101534947167
+"Food Security, Livelihoods","% of HH relying on negative coping strategies (stress, crisis or emergency) to cope with a lack of food or money to buy food","Stress","male",0.558470834109557,"stress",0.0315101534947167
+"Food Security, Livelihoods","% of HH relying on negative coping strategies (stress, crisis or emergency) to cope with a lack of food or money to buy food","Crisis","female",0.224695925904493,"crisis",0.44159301528822
+"Food Security, Livelihoods","% of HH relying on negative coping strategies (stress, crisis or emergency) to cope with a lack of food or money to buy food","Crisis","male",0.191159476111327,"crisis",0.44159301528822
+"Food Security, Livelihoods","% of HH relying on negative coping strategies (stress, crisis or emergency) to cope with a lack of food or money to buy food","Emergency","female",0.119575990677734,"emergency",0.14564354402748
+"Food Security, Livelihoods","% of HH relying on negative coping strategies (stress, crisis or emergency) to cope with a lack of food or money to buy food","Emergency","male",0.0828857887533259,"emergency",0.14564354402748
+"Food Security, Livelihoods","% of HH spending more than 50% of total expenditure on food","","female",0.637925035078598,"food_expenditure_share",0.316250645039982
+"Food Security, Livelihoods","% of HH spending more than 50% of total expenditure on food","","male",0.690826551575581,"food_expenditure_share",0.316250645039982
+"Health","% of households with  a hospital with emergency, maternity, surgical and pediatric services within one hour's reach from dwellings","","female",0.687861721025241,"hospital_access_services",0.35341935886711
+"Health","% of households with  a hospital with emergency, maternity, surgical and pediatric services within one hour's reach from dwellings","","male",0.663566830788301,"hospital_access_services",0.35341935886711
+"Health","% of households that can access primary healthcare (health clinic) within one hour's walk from dwellings","","female",0.989461113663975,"clinic_access",0.664294805205323
+"Health","% of households that can access primary healthcare (health clinic) within one hour's walk from dwellings","","male",0.994462756555038,"clinic_access",0.664294805205323
+"Health","% HH reporting difficulties in accessing health services","","female",0.48395082504472,"difficulty_access_healthcare",4.72731315156516e-05
+"Health","% HH reporting difficulties in accessing health services","","male",0.437061391857161,"difficulty_access_healthcare",4.72731315156516e-05
+"Health","% HH reporting [type of difficulty] in accessing health services","Cost of services and/or medicine was too high","female",0.792344679943181,"difficulty_access_healthcare_cost",0.131607497950088
+"Health","% HH reporting [type of difficulty] in accessing health services","Cost of services and/or medicine was too high","male",0.773457966305631,"difficulty_access_healthcare_cost",0.131607497950088
+"Health","% HH reporting [type of difficulty] in accessing health services","Did not get access to qualified health staff at the health facility","female",0.0383345196479374,"difficulty_access_healthcare_lack_qualified_staff",0.347279723867778
+"Health","% HH reporting [type of difficulty] in accessing health services","Did not get access to qualified health staff at the health facility","male",0.0264335465962689,"difficulty_access_healthcare_lack_qualified_staff",0.347279723867778
+"Health","% HH reporting [type of difficulty] in accessing health services","Problems with civil documents","female",0.00397324398345896,"difficulty_access_healthcare_lack_civil_doc",0.662810872051287
+"Health","% HH reporting [type of difficulty] in accessing health services","Problems with civil documents","male",0.00101850181143735,"difficulty_access_healthcare_lack_civil_doc",0.662810872051287
+"Health","% HH reporting [type of difficulty] in accessing health services","Public health clinic did not provide referral","female",0.0022007936740176,"difficulty_access_healthcare_no_referral_phc",0.0254971359535059
+"Health","% HH reporting [type of difficulty] in accessing health services","Public health clinic did not provide referral","male",0.041208481239678,"difficulty_access_healthcare_no_referral_phc",0.0254971359535059
+"Health","% HH reporting [type of difficulty] in accessing health services","Public health clinic not open","female",0.00843719414211772,"difficulty_access_healthcare_phc_closed",0.08500981931071
+"Health","% HH reporting [type of difficulty] in accessing health services","Public health clinic not open","male",0.0358434925287897,"difficulty_access_healthcare_phc_closed",0.08500981931071
+"Health","% HH reporting [type of difficulty] in accessing health services","The treatment center was too far away/Transportation constraints","female",0.269585427819204,"difficulty_access_healthcare_too_far",0.55722745049078
+"Health","% HH reporting [type of difficulty] in accessing health services","The treatment center was too far away/Transportation constraints","male",0.120261445367429,"difficulty_access_healthcare_too_far",0.55722745049078
+"Health","% HH reporting [type of difficulty] in accessing health services","Medical staff refused treatment without any excuse","female",0.000143748781246425,"difficulty_access_healthcare_staff_refused_treatment",0.657734804811018
+"Health","% HH reporting [type of difficulty] in accessing health services","Medical staff refused treatment without any excuse","male",0.00319092355946464,"difficulty_access_healthcare_staff_refused_treatment",0.657734804811018
+"Health","% HH reporting [type of difficulty] in accessing health services","No medicine available at health facility/pharmacy","female",0.0895544751200868,"difficulty_access_healthcare_lack_medicine",0.00874152423774769
+"Health","% HH reporting [type of difficulty] in accessing health services","No medicine available at health facility/pharmacy","male",0.121461460897497,"difficulty_access_healthcare_lack_medicine",0.00874152423774769
+"Health","% HH reporting [type of difficulty] in accessing health services","No treatment available for my disease at the health facility","female",0.0437195660565459,"difficulty_access_healthcare_no_treatment_phc",0.482687422936494
+"Health","% HH reporting [type of difficulty] in accessing health services","No treatment available for my disease at the health facility","male",0.112039665395979,"difficulty_access_healthcare_no_treatment_phc",0.482687422936494
+"Health","% HH reporting [type of difficulty] in accessing health services","Health services not inclusive of people with disabilities","female",0.014320010373126,"difficulty_access_healthcare_not_inclusive_disability",0.798887951097839
+"Health","% HH reporting [type of difficulty] in accessing health services","Health services not inclusive of people with disabilities","male",0.00443237325449592,"difficulty_access_healthcare_not_inclusive_disability",0.798887951097839
+"Health","% HH reporting [type of difficulty] in accessing health services","Lack of female health staff","female",0.00502103052348069,"difficulty_access_healthcare_no_female_staff",0.349789521628354
+"Health","% HH reporting [type of difficulty] in accessing health services","Lack of female health staff","male",0.00824255455200892,"difficulty_access_healthcare_no_female_staff",0.349789521628354
+"Health, Protection","% HH with at least on individual that has ""lots of difficulty"" or ""cannot do at all"" one of the following activities: seeing, hearing, walking/climbing steps, remembering/concerntrating, self-care, communicating","","female",0.134447108115702,"members_disabled",0.00295628421424755
+"Health, Protection","% HH with at least on individual that has ""lots of difficulty"" or ""cannot do at all"" one of the following activities: seeing, hearing, walking/climbing steps, remembering/concerntrating, self-care, communicating","","male",0.0967230037465118,"members_disabled",0.00295628421424755
+"Health, Protection","% of households with members unable to access one or more services due to disability","","female",0.470635513393598,"difficulty_disability_services",0.0162895044267809
+"Health, Protection","% of households with members unable to access one or more services due to disability","","male",0.343998879144536,"difficulty_disability_services",0.0162895044267809
+"Health, Protection GBV","% of households reporting that women of reproductive age (15-49) face difficulty in accessing specialized reproductive health services","","female",0.133168222489564,"difficulty_accessing_female_services",0.000676867041567322
+"Health, Protection GBV","% of households reporting that women of reproductive age (15-49) face difficulty in accessing specialized reproductive health services","","male",0.166842458288469,"difficulty_accessing_female_services",0.000676867041567322
+"HH profile","% of female-headed households","","female",1,"female_headed",0
+"HH profile","% of female-headed households","","male",0,"female_headed",0
+"HH profile","% of single headed households","","female",0.831994987064142,"single_headed",0
+"HH profile","% of single headed households","","male",0.018940298991072,"single_headed",0
+"HH Profile, CCCM ","% of IDP HHs that intend to remain in their current location for the next three months","Remain
+Return to AoO
+Move elsewhere
+Don’t know","female",0.905282042573547,"no_movement_3",0.497071366433304
+"HH Profile, CCCM ","% of IDP HHs that intend to remain in their current location for the next three months","Remain
+Return to AoO
+Move elsewhere
+Don’t know","male",0.912449632422592,"no_movement_3",0.497071366433304
+"HH Profile, CCCM ","% of IDP HHs that intend to remain in their current location for the next twelve months","Remain
+Return to AoO
+Move elsewhere
+Don’t know","female",0.827066282235254,"no_movement_12",0.0841249184833298
+"HH Profile, CCCM ","% of IDP HHs that intend to remain in their current location for the next twelve months","Remain
+Return to AoO
+Move elsewhere
+Don’t know","male",0.831742390580499,"no_movement_12",0.0841249184833298
+"HH Profile, CCCM ","% of returnee HHs that intend to remain in their current location for the next twelve months","","female",0.903485043111062,"no_movement_returnee_12",0.176005021623182
+"HH Profile, CCCM ","% of returnee HHs that intend to remain in their current location for the next twelve months","","male",0.939195667927748,"no_movement_returnee_12",0.176005021623182
+"HH Profile, CCCM ","% of IDP HHs that intend to integrate into the local community of their current district in the long-term","","female",0.753995222527606,"integration",1.72335189715037e-07
+"HH Profile, CCCM ","% of IDP HHs that intend to integrate into the local community of their current district in the long-term","","male",0.798197737956567,"integration",1.72335189715037e-07
+"HH Profile, CCCM ","% of IDP HHs that currently intends to return to their AoO due to [insert response option]","Safety in AoO","female",0.295201462969394,"return_security_aoo",0.467780502296309
+"HH Profile, CCCM ","% of IDP HHs that currently intends to return to their AoO due to [insert response option]","Safety in AoO","male",0.353309736103167,"return_security_aoo",0.467780502296309
+"HH Profile, CCCM ","% of IDP HHs that currently intends to return to their AoO due to [insert response option]","Safety concerns in AoD","female",0.022622015242542,"return_security_aod",0.96296524167864
+"HH Profile, CCCM ","% of IDP HHs that currently intends to return to their AoO due to [insert response option]","Safety concerns in AoD","male",0.0688406714302145,"return_security_aod",0.96296524167864
+"HH Profile, CCCM ","% of IDP HHs that currently intends to return to their AoO due to [insert response option]","Lack of livelihood in AoD","female",0,"return_livelihoods_aod",0.113482901364307
+"HH Profile, CCCM ","% of IDP HHs that currently intends to return to their AoO due to [insert response option]","Lack of livelihood in AoD","male",0.153380605171227,"return_livelihoods_aod",0.113482901364307
+"HH Profile, CCCM ","% of IDP HHs that currently intends to return to their AoO due to [insert response option]","to secure HLP ","female",0.155344789847029,"return_secure_hlp",0.999999999999998
+"HH Profile, CCCM ","% of IDP HHs that currently intends to return to their AoO due to [insert response option]","to secure HLP ","male",0.111568264757521,"return_secure_hlp",0.999999999999998
+"HH Profile, CCCM ","% of IDP HHs that currently intends to return to their AoO due to [insert response option]","to secure civil documentation or security clearance","female",0.0289502215173479,"return_secure_docs",0.839421141452103
+"HH Profile, CCCM ","% of IDP HHs that currently intends to return to their AoO due to [insert response option]","to secure civil documentation or security clearance","male",0.00469098436388522,"return_secure_docs",0.839421141452103
+"HH Profile, CCCM ","% of IDP HHs that currently intends to return to their AoO due to [insert response option]","Lack of access to basic services in AoD (e.g. health, education, courts)","female",0.0450134955194113,"return_limited_services",0.999999999999999
+"HH Profile, CCCM ","% of IDP HHs that currently intends to return to their AoO due to [insert response option]","Lack of access to basic services in AoD (e.g. health, education, courts)","male",0.063659536057554,"return_limited_services",0.999999999999999
+"HH Profile, CCCM ","% of IDP HHs that currently intends to return to their AoO due to [insert response option]","Availability of access to basic services and/or livelihood in AoO (e.g. health, education, courts)","female",0.535629570771661,"return_available_services_aoo",0.193243693941485
+"HH Profile, CCCM ","% of IDP HHs that currently intends to return to their AoO due to [insert response option]","Availability of access to basic services and/or livelihood in AoO (e.g. health, education, courts)","male",0.382204434156851,"return_available_services_aoo",0.193243693941485
+"HH Profile, CCCM ","% of IDP HHs that currently intends to return to their AoO due to [insert response option]","Social pull factors (e.g. emotional desire, family returned, family released from detention, lack integration AoD)","female",0.67235115211158,"return_pull_factors",0.596428663760157
+"HH Profile, CCCM ","% of IDP HHs that currently intends to return to their AoO due to [insert response option]","Social pull factors (e.g. emotional desire, family returned, family released from detention, lack integration AoD)","male",0.444883124478111,"return_pull_factors",0.596428663760157
+"HH Profile, CCCM ","% of IDP HHs that currently intends to return to their AoO due to [insert response option]","Mine/UXO contamination","female",0.0421097362083343,"return_uxo",0.0965552794195021
+"HH Profile, CCCM ","% of IDP HHs that currently intends to return to their AoO due to [insert response option]","Mine/UXO contamination","male",0.135826477927378,"return_uxo",0.0965552794195021
+"HH Profile, CCCM ","% of IDP HHs that currently don't intend to return to their AoO due to [insert response option]","Safety concerns in AoO","female",0.581768792793193,"no_return_security_aoo",0.0547708471073648
+"HH Profile, CCCM ","% of IDP HHs that currently don't intend to return to their AoO due to [insert response option]","Safety concerns in AoO","male",0.577042536082978,"no_return_security_aoo",0.0547708471073648
+"HH Profile, CCCM ","% of IDP HHs that currently don't intend to return to their AoO due to [insert response option]","Lack of livelihood in AoO","female",0.474672950515906,"no_return_lack_livelihoods",0.137850426663207
+"HH Profile, CCCM ","% of IDP HHs that currently don't intend to return to their AoO due to [insert response option]","Lack of livelihood in AoO","male",0.46537850128544,"no_return_lack_livelihoods",0.137850426663207
+"HH Profile, CCCM ","% of IDP HHs that currently don't intend to return to their AoO due to [insert response option]","Lack of shelter in AoO","female",0.392950726762286,"no_return_lack_shelter",0.485954984898874
+"HH Profile, CCCM ","% of IDP HHs that currently don't intend to return to their AoO due to [insert response option]","Lack of shelter in AoO","male",0.420710225316922,"no_return_lack_shelter",0.485954984898874
+"HH Profile, CCCM ","% of IDP HHs that currently don't intend to return to their AoO due to [insert response option]","Lack of civil documentation or security clearance","female",0.00765530164122358,"no_return_lack_docs",0.0010449006065701
+"HH Profile, CCCM ","% of IDP HHs that currently don't intend to return to their AoO due to [insert response option]","Lack of civil documentation or security clearance","male",0.00128566877694628,"no_return_lack_docs",0.0010449006065701
+"HH Profile, CCCM ","% of IDP HHs that currently don't intend to return to their AoO due to [insert response option]","Lack of access to basic services in AoD (e.g. health, education, courts)","female",0.124115663235461,"no_return_lack_services",3.67267701989562e-05
+"HH Profile, CCCM ","% of IDP HHs that currently don't intend to return to their AoO due to [insert response option]","Lack of access to basic services in AoD (e.g. health, education, courts)","male",0.151130790597618,"no_return_lack_services",3.67267701989562e-05
+"HH Profile, CCCM ","% of IDP HHs that currently don't intend to return to their AoO due to [insert response option]","Pull factors to remain in AoD (e.g. education, family, health condition, living conditions)","female",0.188097069868872,"no_return_pull_factors",0.532888304072893
+"HH Profile, CCCM ","% of IDP HHs that currently don't intend to return to their AoO due to [insert response option]","Pull factors to remain in AoD (e.g. education, family, health condition, living conditions)","male",0.200341054246281,"no_return_pull_factors",0.532888304072893
+"HH Profile, CCCM ","% of IDP HHs that currently don't intend to return to their AoO due to [insert response option]","Mine/UXO contamination","female",0.0821760249387373,"no_return_uxo",0.767780571175626
+"HH Profile, CCCM ","% of IDP HHs that currently don't intend to return to their AoO due to [insert response option]","Mine/UXO contamination","male",0.0844104608387046,"no_return_uxo",0.767780571175626
+"Livelihoods","% HH with at least one adult (18+) unemployed and seeking work","","female",0.172321751080023,"unemployed_seeking_work",0.0575314631158819
+"Livelihoods","% HH with at least one adult (18+) unemployed and seeking work","","male",0.198457343166945,"unemployed_seeking_work",0.0575314631158819
+"Livelihoods","% HH with at least one female adult (18+) unemployed and seeking work","","female",0.124965348753113,"female_unemployed_seeking_work",1.28292469971354e-11
+"Livelihoods","% HH with at least one female adult (18+) unemployed and seeking work","","male",0.10742462297145,"female_unemployed_seeking_work",1.28292469971354e-11
+"Livelihoods","% HH with at least one person under (<18) working","","female",0.168694463371511,"children_working",1.07885058406893e-11
+"Livelihoods","% HH with at least one person under (<18) working","","male",0.0397392807992765,"children_working",1.07885058406893e-11
+"Livelihoods","Main barriers to employment","Increased competition for jobs, not enough jobs","female",0.687972348671281,"employment_barrier_competition",0.524611480145103
+"Livelihoods","Main barriers to employment","Increased competition for jobs, not enough jobs","male",0.752514379246597,"employment_barrier_competition",0.524611480145103
+"Livelihoods","Main barriers to employment","Available jobs are too far away","female",0.132064817173301,"employment_barrier_too_far",0.619505352550561
+"Livelihoods","Main barriers to employment","Available jobs are too far away","male",0.167148002846553,"employment_barrier_too_far",0.619505352550561
+"Livelihoods","Main barriers to employment","Only low-skilled, socially degrading or low-paying jobs","female",0.0606581060405256,"employment_barrier_only_low_available",0.747844086702899
+"Livelihoods","Main barriers to employment","Only low-skilled, socially degrading or low-paying jobs","male",0.0702168065871479,"employment_barrier_only_low_available",0.747844086702899
+"Livelihoods","Main barriers to employment","Underqualified for available jobs","female",0.112463515148392,"employment_barrier_underqualified_for_jobs",0.733397595504713
+"Livelihoods","Main barriers to employment","Underqualified for available jobs","male",0.100963712571198,"employment_barrier_underqualified_for_jobs",0.733397595504713
+"Livelihoods","Main barriers to employment","Lack of family/personal connections","female",0.180677031180362,"employment_barrier_no_wasta",0.184798944174443
+"Livelihoods","Main barriers to employment","Lack of family/personal connections","male",0.141662688957384,"employment_barrier_no_wasta",0.184798944174443
+"Livelihoods","Main barriers to employment","Lack of livelihood/employment opportunities for women","female",0.311187215528484,"employment_barrier_lack_jobs_women",7.61327871866754e-08
+"Livelihoods","Main barriers to employment","Lack of livelihood/employment opportunities for women","male",0.133641940782614,"employment_barrier_lack_jobs_women",7.61327871866754e-08
+"Livelihoods","% of households whose average monthly income [from employment and pension] was less than 480,000 IQD/month","","female",0.760903293820041,"insufficient_income",6.43676967010676e-26
+"Livelihoods","% of households whose average monthly income [from employment and pension] was less than 480,000 IQD/month","","male",0.61987406589651,"insufficient_income",6.43676967010676e-26
+"Livelihoods","% of HHs reporting a barrier to an operational marketplace","","female",0.192909300071196,"market_barrier",0.178012769112882
+"Livelihoods","% of HHs reporting a barrier to an operational marketplace","","male",0.127089805969426,"market_barrier",0.178012769112882
+"Livelihoods","% HH with debt value > 505,000 IQD ","","female",0.549623248287446,"too_much_debt",2.01121735338554e-10
+"Livelihoods","% HH with debt value > 505,000 IQD ","","male",0.55776314107103,"too_much_debt",2.01121735338554e-10
+"Livelihoods","% HH unable to afford basic needs (% HH taking on debt due to healthcare, food, education, or basic household expenditures)","","female",0.830870676936328,"basic_services",3.03325859258305e-07
+"Livelihoods","% HH unable to afford basic needs (% HH taking on debt due to healthcare, food, education, or basic household expenditures)","","male",0.760342770005296,"basic_services",3.03325859258305e-07
+"Livelihoods, AAP","% of households relying  on humanitarian assistance as a primary  source of income","","female",0.0335974965229653,"ngo_assistance",6.41405590438739e-15
+"Livelihoods, AAP","% of households relying  on humanitarian assistance as a primary  source of income","","male",0.0153433477622218,"ngo_assistance",6.41405590438739e-15
+"Livelihoods, Health","% of HH spending more than 25% of total expenditure on health","","female",0.40687293414192,"health_expenses",0.0380630917896593
+"Livelihoods, Health","% of HH spending more than 25% of total expenditure on health","","male",0.351585114344774,"health_expenses",0.0380630917896593
+"Protection","% HHs reporting risk of eviction","","female",0.0400118431045745,"risk_eviction",0.0676601953827413
+"Protection","% HHs reporting risk of eviction","","male",0.0342378664839192,"risk_eviction",0.0676601953827413
+"Protection","% of HHs reporting to experience daytime movement restrictions","","female",0.13873860845263,"movement_restriction",2.96141044743663e-08
+"Protection","% of HHs reporting to experience daytime movement restrictions","","male",0.11885950385366,"movement_restriction",2.96141044743663e-08
+"Protection","% HH missing at least one key household or individual document ","","female",0.208949701566561,"hh_missing_doc",0.563949903296607
+"Protection","% HH missing at least one key household or individual document ","","male",0.177904335100455,"hh_missing_doc",0.563949903296607
+"Protection","% of HH with at least one child missing a key individual document","","female",0.173680177483273,"children_missing_doc",0.969599577639266
+"Protection","% of HH with at least one child missing a key individual document","","male",0.15308036029772,"children_missing_doc",0.969599577639266
+"Protection","% of households with presence of child marriage","","female",0.0326605285234893,"child_married",0.343327091036631
+"Protection","% of households with presence of child marriage","","male",0.00911017518883228,"child_married",0.343327091036631
+"Protection, Health","% HH with children with psychosocial distress (proxy data with behaviour change)","","female",0.0683267829415864,"child_distress",2.10871768584375e-06
+"Protection, Health","% HH with children with psychosocial distress (proxy data with behaviour change)","","male",0.0439139873743183,"child_distress",2.10871768584375e-06
+"Protection, Health","% HH with adults with psychosocial distress (proxy data with behavior change)","","female",0.152634176581267,"adult_distress",7.707269433309e-13
+"Protection, Health","% HH with adults with psychosocial distress (proxy data with behavior change)","","male",0.0902428005748685,"adult_distress",7.707269433309e-13
+"Protection, HLP","% of HHs lacking secure tenure","","female",0.11243505169011,"lack_secure_tenure",0.0108608444426773
+"Protection, HLP","% of HHs lacking secure tenure","","male",0.0846272980173667,"lack_secure_tenure",0.0108608444426773
+"Protection, HLP","% of HHs lacking valid HLP documents","","female",0.510136243033349,"lack_hlp",5.82593140493e-05
+"Protection, HLP","% of HHs lacking valid HLP documents","","male",0.450518297710159,"lack_hlp",5.82593140493e-05
+"SNFI","% HHs reporting at least 2 shelter improvements","","female",0.285368842185032,"shelter_2_improvements",0.0145474673437334
+"SNFI","% HHs reporting at least 2 shelter improvements","","male",0.226502421055285,"shelter_2_improvements",0.0145474673437334
+"WASH","% of HHs without access to an improved water source","","female",0.159794194003418,"imptoved_water_source",0.00583280743577731
+"WASH","% of HHs without access to an improved water source","","male",0.167738694059096,"imptoved_water_source",0.00583280743577731
+"WASH","% of HHs without access to [type of water source]","improved","female",0.840205805996582,"water_source",0.00583280743577731
+"WASH","% of HHs without access to [type of water source]","unimproved","female",0.159794194003418,"water_source",0.00583280743577731
+"WASH","% of HHs without access to [type of water source]","improved","male",0.832261305940905,"water_source",0.00583280743577731
+"WASH","% of HHs without access to [type of water source]","unimproved","male",0.167738694059096,"water_source",0.00583280743577731
+"WASH","% of households without access to a sufficient quantity of water for drinking and domestic purposes","","female",0.846750551625089,"insufficient_amount_water",0.217722844406477
+"WASH","% of households without access to a sufficient quantity of water for drinking and domestic purposes","","male",0.870140759963856,"insufficient_amount_water",0.217722844406477
+"WASH","% HH with access to improved functional sanitation facilities ","","female",0.983021398153547,"improved_sanitation",0.0522224116783583
+"WASH","% HH with access to improved functional sanitation facilities ","","male",0.976798681550387,"improved_sanitation",0.0522224116783583
+"WASH","% of households reporting problems related to water quality","","female",0.5190570736565,"problem_water_quality",0.00163966782090697
+"WASH","% of households reporting problems related to water quality","","male",0.516197691465579,"problem_water_quality",0.00163966782090697
+"WASH","% HH treating their water prior to drinking","","female",0.605296836597775,"treat_water",0.00223136526511746
+"WASH","% HH treating their water prior to drinking","","male",0.593535990080012,"treat_water",0.00223136526511746
