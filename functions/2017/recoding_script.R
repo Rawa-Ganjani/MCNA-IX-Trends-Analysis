@@ -214,8 +214,7 @@ recoding_2017 <- function(df) {
       T ~ 0
     ),
     education_barriers_poor_infrastructure = case_when(
-      education.barriers_ed.school_barriers.badcondition == 1 |
-        education.barriers_ed.school_barriers.quality == 1 ~ 1,
+      education.barriers_ed.school_barriers.badcondition == 1 ~ 1,
       is.na(education.barriers_ed.school_barriers) ~ NA_real_,
       T ~ 0
     ),

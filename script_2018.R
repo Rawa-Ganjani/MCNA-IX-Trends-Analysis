@@ -14,7 +14,7 @@ loop <-
     na.strings = c("", "na", "NA", "NaN", "#N/A")
   )
 
-if(disaggregate == "all") {
+if(disaggregate != "population_group") {
   df <- df[df$population_group != "host",]
   loop <- loop[loop$X_submission__uuid %in% df$X_uuid, ]
 }
@@ -90,39 +90,16 @@ summary <-
     )
   )
 
-if(!disaggregate %in% c("all", "population_group") &
-   length(unique(df[[disaggregate]])) == 2) {
-  for (indicator in unique(summary$dependent.var)) {
-    if (length(unique(na.omit(df[[indicator]]))) > 1) {
-      df$indi <- df[[indicator]]
-      df$disaggr <- df[[disaggregate]]
-      chisquare <- chisq.test(x = df$indi, y = df$disaggr)
-      summary$p_value[summary$dependent.var == indicator] <-
-        chisquare$p.value
-    }
-  }
-  summary <-
-    summary %>% dplyr::select(
-      "Sector" = "ï..Sector",
-      "Indicator" = "research.question",
-      "Sub Indicator" =  "sub.research.question",
-      "Aggregation" = "repeat.var.value",
-      "Disaggregation" = "independent.var.value",
-      "Percentages" = "numbers",
-      "variable_name" = "dependent.var",
-      "p_value"
-    )
-}else{
-  summary <-
-    summary %>% dplyr::select(
-      "Sector" = "ï..Sector",
-      "Indicator" = "research.question",
-      "Sub Indicator" =  "sub.research.question",
-      "Aggregation" = "repeat.var.value",
-      "Disaggregation" = "independent.var.value",
-      "Percentages" = "numbers",
-      "variable_name" = "dependent.var")
-}
+summary <-
+  summary %>% dplyr::select(
+    "Sector" = "ï..Sector",
+    "Indicator" = "research.question",
+    "Sub Indicator" =  "sub.research.question",
+    "Aggregation" = "repeat.var.value",
+    "Disaggregation" = "independent.var.value",
+    "Percentages" = "numbers",
+    "variable_name" = "dependent.var"
+  )
 
 
 if(aggregate == "all"){

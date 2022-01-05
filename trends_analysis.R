@@ -13,7 +13,7 @@ library(expss)
 source(file = "functions/correct_zeros.R")
 
 aggregate <- "all"
-disaggregate <- "all"
+disaggregate <- "gender_head"
 dap_name <- "dap_trends_analysis"
 
 source("script_2021.R")
@@ -29,5 +29,5 @@ source("script_2017.R")
 findings <- rbind(findings_2021, findings_2020, findings_2019, findings_2018, findings_2017)
 
 write.csv(findings,
-          sprintf("output/results_%s_%s_%s.csv", aggregate, disaggregate, today()),
+          sprintf("output/merged/results_%s_%s_%s.csv", aggregate, disaggregate, today()),
           row.names = F)

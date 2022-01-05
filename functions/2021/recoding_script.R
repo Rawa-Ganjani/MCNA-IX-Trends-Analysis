@@ -408,7 +408,8 @@ recoding_2021 = function(df, loop) {
   df$return_uxo <- df$reason_to_return_to_aoo.uxo
   df$return_pull_factors <- case_when(df$reason_to_return_to_aoo.emotional_desire == 1 |
                                         df$reason_to_return_to_aoo.fam_released == 1 |
-                                        df$reason_to_return_to_aoo.other_members_returned == 1 ~ 1,
+                                        df$reason_to_return_to_aoo.other_members_returned == 1 |
+                                        df$reason_to_return_to_aoo.no_integrated_aod == 1 ~ 1,
                                       is.na(df$reason_to_return_to_aoo) ~ NA_real_,
                                       T ~ 0
                                       )

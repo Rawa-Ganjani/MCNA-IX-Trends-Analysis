@@ -287,13 +287,6 @@ recoding_2019 = function(df, loop) {
       TRUE ~ 0
     )
   
-  df$integration <-
-    case_when(
-      df$community_decision_making == "yes" ~ 1,
-      is.na(df$community_decision_making) ~ NA_real_,
-      TRUE ~ 0
-    )
-  
   df$return_security_aoo <- df$reason_to_return_to_aoo.security_stable
   df$return_security_aod <-
     case_when(
@@ -319,7 +312,8 @@ recoding_2019 = function(df, loop) {
   df$return_uxo <- df$reason_to_return_to_aoo.uxo
   df$return_pull_factors <- case_when(df$reason_to_return_to_aoo.emotional_desire == 1 |
                                         df$reason_to_return_to_aoo.fam_released == 1 |
-                                        df$reason_to_return_to_aoo.other_members_returned == 1 ~ 1,
+                                        df$reason_to_return_to_aoo.other_members_returned == 1 |
+                                        df$reason_to_return_to_aoo.no_integrated_in_area_of_displace == 1 ~ 1,
                                       is.na(df$reason_to_return_to_aoo) ~ NA_real_,
                                       T ~ 0
   )

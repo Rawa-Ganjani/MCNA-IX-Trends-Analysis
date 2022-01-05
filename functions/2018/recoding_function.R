@@ -617,9 +617,7 @@ recoding_2018 <- function(df, loop) {
     df$S_NFI.shelter_better.protec_hazards +
       df$S_NFI.shelter_better.improve_safety +
       df$S_NFI.shelter_better.improve_privacy +
-      df$S_NFI.shelter_better.protect_climate +
-      df$S_NFI.shelter_better.improve_infrastructure + 
-      df$S_NFI.shelter_better.improve_structure >= 2 ~ 1, 
+      df$S_NFI.shelter_better.protect_climate >= 2 ~ 1, 
     TRUE ~ 0
   )
   
