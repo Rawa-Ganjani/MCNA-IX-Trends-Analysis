@@ -13,7 +13,7 @@ library(expss)
 source(file = "functions/correct_zeros.R")
 
 aggregate <- "all"
-disaggregate <- "gender_head"
+disaggregate <- "all"
 dap_name <- "dap_trends_analysis"
 
 source("script_2021.R")

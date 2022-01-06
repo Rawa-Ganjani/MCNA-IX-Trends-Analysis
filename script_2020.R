@@ -41,8 +41,6 @@ dap$independent.variable <- disaggregate
 df$all <- "all"
 df$gender_head <- case_when(df$female_headed > 0 ~ "female", T ~ "male")
 
-df <- df[,c("all", "district", "governorate", "gender_head", "strata", "population_group", dap$dependent.variable)]
-
 usecores <- detectCores() - 2
 cl <- makeCluster(usecores)
 registerDoParallel(cl)
